@@ -1,0 +1,16 @@
+.quiz-hearder{
+  height:200px;
+  display: block;
+  color: white;
+  text-align: center;
+  background-position: center;
+  background-size: cover;
+
+}
+
+.quiz-hearder h1{
+
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
